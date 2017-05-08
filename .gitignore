@@ -1,0 +1,9 @@
+settings.php
+/sites/default/files/
+/sites/default/files/css
+/sites/default/files/js
+/sites/default/files/php
+/nbproject/private/
+/sites/default/files/
+nbproject/
+sites/default/settings.local.php
