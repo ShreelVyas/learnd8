@@ -1,0 +1,18 @@
+uuid: 7e5c9f38-f16e-4df8-b6bf-50a6df672d94
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Book
+type: book
+description: 'test content type D8 ex-1'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
